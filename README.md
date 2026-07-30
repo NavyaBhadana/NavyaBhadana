@@ -1,0 +1,1 @@
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+Student;Competitive+Programmer;DSA+Enthusiast;Web+Developer;Always+Learning+🚀" alt="Typing SVG" /> </p>
